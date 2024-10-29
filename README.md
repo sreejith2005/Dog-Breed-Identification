@@ -2,6 +2,10 @@
 
 This project leverages transfer learning to identify dog breeds from dog images. Using TensorFlow and Keras, MobileNet V2 is trained on a diverse dataset of dog breeds.
 </br>
+
+![labarador](https://github.com/user-attachments/assets/00fd8ccb-399b-41ce-8590-31deb35b8899)
+
+
 ## Features
 - Classifies images into various dog breeds.
 - A total of 120 unique dog breeds.
